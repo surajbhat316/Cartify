@@ -1,6 +1,6 @@
-package com.abig.Caritfy.repository;
+package com.abig.Cartify.repository;
 
-import com.abig.Caritfy.model.Product;
+import com.abig.Cartify.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

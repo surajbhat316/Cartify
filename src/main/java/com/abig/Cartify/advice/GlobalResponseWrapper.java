@@ -1,7 +1,7 @@
-package com.abig.Caritfy.advice;
+package com.abig.Cartify.advice;
 
 
-import com.abig.Caritfy.dto.common.ApiResponse;
+import com.abig.Cartify.dto.common.ApiResponse;
 import org.jspecify.annotations.Nullable;
 import org.springframework.core.MethodParameter;
 import org.springframework.http.MediaType;
@@ -12,7 +12,7 @@ import org.springframework.http.server.ServerHttpResponse;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 
-@RestControllerAdvice(basePackages = "com.abig.Caritfy.controller")
+@RestControllerAdvice(basePackages = "com.abig.Cartify.controller")
 public class GlobalResponseWrapper implements ResponseBodyAdvice<Object> {
     
     @Override

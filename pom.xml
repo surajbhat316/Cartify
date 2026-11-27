@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.abig</groupId>
-	<artifactId>Caritfy</artifactId>
+	<artifactId>Cartify</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
