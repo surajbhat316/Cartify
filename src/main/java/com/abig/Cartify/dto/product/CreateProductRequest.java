@@ -1,6 +1,6 @@
-package com.abig.Caritfy.dto.product;
+package com.abig.Cartify.dto.product;
 
-import com.abig.Caritfy.model.Product;
+import com.abig.Cartify.model.Product;
 import jakarta.validation.constraints.*;
 
 public record CreateProductRequest(

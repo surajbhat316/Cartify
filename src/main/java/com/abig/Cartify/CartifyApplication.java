@@ -1,13 +1,13 @@
-package com.abig.Caritfy;
+package com.abig.Cartify;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CaritfyApplication {
+public class CartifyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CaritfyApplication.class, args);
+		SpringApplication.run(CartifyApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.abig.Caritfy.model;
+package com.abig.Cartify.model;
 
 
 import jakarta.persistence.*;

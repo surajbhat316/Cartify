@@ -1,4 +1,4 @@
-package com.abig.Caritfy.dto.common;
+package com.abig.Cartify.dto.common;
 
 import java.time.LocalDateTime;
 

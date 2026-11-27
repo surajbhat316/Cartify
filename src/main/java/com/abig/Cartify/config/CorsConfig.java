@@ -1,4 +1,4 @@
-package com.abig.Caritfy.config;
+package com.abig.Cartify.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
