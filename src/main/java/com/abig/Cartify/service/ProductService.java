@@ -26,8 +26,6 @@ public class ProductService {
     public PagedResponse<ProductResponse> getAllProducts(Pageable pageable) {
         Page<ProductResponse> response = this.productRepository.findAll(pageable)
                 .map(ProductResponse::from);
-
-        System.out.println(response);
         return PagedResponse.from(response);
     }
 
